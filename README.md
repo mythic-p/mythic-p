@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mythic-p
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning how to make a virtual machine.
-- 💞️ I’m looking to collaborate on making a next-generation programming language.
+- 🌱 I’m currently working on AIGC application
 - 📫 Reach me By sending email to 1306395569@qq.com
 
 <!---
