@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mythic-p
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in fullstack development
 - 🌱 I’m currently working on AIGC application
 - 📫 Reach me By sending email to 1306395569@qq.com
 
